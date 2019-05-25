@@ -1,0 +1,44 @@
+body{
+    background-image: url(Backgroundrules.jpg);
+    background-size: contain;
+}
+
+h1{
+    font-size: 72px;
+}
+
+h3{
+    font-size: 48px;
+    color: grey;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul{
+    font-size: 20px;
+}
+
+table, td{
+    border: 1px solid black;
+    font-family: "Arial", Times New Roman;
+    font-size: 20px;
+}
+
+h4{
+    font-size: 28px;
+    color: black;
+}
+
+button{
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: blue;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    cursor: pointer;
+}
